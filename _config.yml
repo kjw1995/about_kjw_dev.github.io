@@ -9,7 +9,7 @@ version: 2
 name: 김정우
 title: 웹 백엔드 개발자
 email: wjddn312@naver.com
-website: https://github.com/kjw1995
+website: https://velog.io/@kjw1995/posts
 
 # Dark Mode (true/false/never)
 darkmode: never
@@ -46,7 +46,7 @@ github_username:  kjw1995
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.png
+about_profile_image: images/profile.jfif
 about_content: | # this will include new lines to allow paragraphs
   <mark>Java, Spring / 클라우드 서버 기반의 1년차 서버 백엔드 개발자</mark>입니다. <br /> 
   P2P 금융 핀테크 사의 기존 레거시 소스들의 리팩토링, 유지보수, 신규개발. 동시간대 회원 상품 투자의 모니터링 및 해당 프로세스 개발을 담당하였습니다. <br /> 
