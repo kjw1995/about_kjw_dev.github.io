@@ -86,11 +86,11 @@ content:
           누적투자금액 2조원, P2P 금융 핀테크
         description: | # this will include new lines to allow paragraphs
             - 사내 레거시 코드 리팩토링 진행
-              - 
-            - 배치를 이용한 다수의 PG 대사 데이터 수집
-              -
-            - 국세청 세금 발행 서비스 신규 개발 및 유지보수
-              -
+              - 기존 MyBatis(ORM) 의 코드 JPA 리팩토링 진행
+                - KYC(Know your customer) 프로세스 코드 리팩토링
+            - 사내 업무 개발 및 유지보수 진행
+              - 국세청 세금 계산서 발행 API 연동 개발
+              - 정산 자동화를 위한 다수의 PG사 정산대사 API 연동 개발 및 배치 프로세스 개발
             - 추가
               -
 
