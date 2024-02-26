@@ -95,7 +95,7 @@ content:
               -
 
   - title: Skill # Title for the section
-    layout: text # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: BackEnd
@@ -109,7 +109,8 @@ content:
       - layout: left
         title: DevOps
         description: | # this will include new lines to allow paragraphs
-          - Jenkins, ArgoCD
+          - Docker, Kubernetes, ElasticsSearch 
+          - GitLab. Jenkins, ArgoCD. Slack
 
   - title: A Little More About Me
     layout: text
