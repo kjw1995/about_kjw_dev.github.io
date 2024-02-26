@@ -88,14 +88,20 @@ content:
               - 기존 MyBatis(ORM) 의 코드 JPA 리팩토링 진행
                 - 기존 회원 인증방식(KYC) 소스 코드 리팩토링
                 - 로그인 서비스 리팩토링
-                - 
+                - 세금계산서 및 현금영수증 발행 서비스 리팩토링
             - 사내 업무 개발 및 유지보수 진행
               - 국세청 세금 계산서 발행 API 연동 개발
-          
+              - Spring Boot 버전 업 및 버전 업에 따른 Spring Security 설정 수정
+              - 사내 지급 통계 데이터를 이용한 백오피스 통계 페이지 개발
+            - 신규 프로젝트 및 개발 진행
+              - 개발자 API 레퍼런스 페이지 서버 구축 및 개발
+              - OPENAPI 서버 구축
+                - Spring Security(JWT) 인증 방식 도입을 통한 인증,인가 시스템 구축
+                - 기존 내부 서버 상품 및 투자 연동 및 프로세스 개발
               - 정산 자동화를 위한 다수의 PG사 정산대사 API 연동 개발 및 배치 프로세스 개발
-            - 추가
-              -
-
+            - 에러 추적 및 로깅
+              - ORM 혼용으로 인한 JPA 의 OSIV 문제 
+              - 서버 Shutdown 시 비동기 소스 의 요청 문제
   - title: Skill # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -111,7 +117,7 @@ content:
       - layout: left
         title: FrontEnd
         description:
-          - JavaScript(JQuery)
+          - JavaScript, JQuery
       - layout: left
         title: DevOps
         description: | # this will include new lines to allow paragraphs
