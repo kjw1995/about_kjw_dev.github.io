@@ -94,19 +94,22 @@ content:
             - 추가
               -
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Skill # Title for the section
+    layout: text # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: BackEnd
+        quote: 현재 업무에서 사용하고있거나, 경험했던 기술들 입니다.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          - Java, Spring FrameWork, Spring Boot
+          - Spring Security, JWT, Spring Batch, Spring Quartz
+          - MyBatis, JPA, QueryDsl
+          - Redis
+          - Gradle, Groovy, Intellij
+      - layout: left
+        title: DevOps
+        description: | # this will include new lines to allow paragraphs
+          - Jenkins, ArgoCD
 
   - title: A Little More About Me
     layout: text
