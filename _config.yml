@@ -50,7 +50,7 @@ about_profile_image: images/profile.jfif
 about_content: | # this will include new lines to allow paragraphs
   <mark>Java, Spring / 클라우드 서버 기반의 1년차 서버 백엔드 개발자</mark>입니다. <br /> 
   P2P 금융 핀테크 사의 기존 레거시 소스들의 리팩토링, 유지보수, 신규개발. 동시간대 회원 상품 투자의 모니터링 및 해당 프로세스 개발을 담당하였습니다. <br /> 
-  동료 개발자들 간의 유연한 소스공유, 간결한 코드 작성 및 테스트 코드로 높은 확장성을 지향하고있습니다. <br /> 
+  동료 개발자들 간의 원활한 협력을 위하여, 간결한 코드 작성 및 테스트 코드로 높은 확장성을 지향하고있습니다. <br /> 
   
 
 content:
@@ -101,8 +101,8 @@ content:
                 - 기존 내부 서버 상품 및 투자 서비스 연동 개발
               - 정산 자동화를 위한 다수의 PG사 정산대사 API 연동 개발 및 배치 프로세스 개발
             - 에러 추적 및 로깅
-              - ORM 혼용으로 인한 JPA 의 OSIV 문제 
-              - 서버 Shutdown 시 비동기 로직의 실행 과정 중 종료 문제
+              - <a href="https://velog.io/@kjw1995/ORM-%ED%98%BC%EC%9A%A9%EC%97%90-%EB%94%B0%EB%A5%B8-JPA-%EC%9D%98-OSIV-%EB%AC%B8%EC%A0%9C">ORM 혼용으로 인한 JPA 의 OSIV 문제</a> 
+              - <a href="https://velog.io/@kjw1995/ORM-%ED%98%BC%EC%9A%A9%EC%9C%BC%EB%A1%9C-%EC%9D%B8%ED%95%9C-JPA-%EC%9D%98-DB-%EC%BB%A4%EB%84%A5%EC%85%98%ED%92%80OSIV-%EB%AC%B8%EC%A0%9C">서버 Shutdown 시 비동기 로직의 실행 과정 중 종료 문제</a>
   - title: Skill # Title for the section
     layout: list # Type of content section (list/text)
     content:
