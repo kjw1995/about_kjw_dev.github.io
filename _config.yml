@@ -133,7 +133,7 @@ content:
         title: 개인블로그
         quote: 개인 기술 블로그
         link: https://velog.io/@kjw1995/posts
-        description:
+        description: |
           - 업무 중 발생했던 문제, 회사에서 사용하는 기술, 여러 동료 개발자들과의 협업 시 생기는 문제 해결 방안 등 스스로 정리하고 공부하기 위함
 
 
